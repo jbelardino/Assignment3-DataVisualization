@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Assignment3-DataVisualization/static/css/main.31d6cfe0.css",
+    "main.js": "/Assignment3-DataVisualization/static/js/main.1afaf0d5.js",
+    "static/media/tips.csv": "/Assignment3-DataVisualization/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/Assignment3-DataVisualization/index.html",
+    "main.1afaf0d5.js.map": "/Assignment3-DataVisualization/static/js/main.1afaf0d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1afaf0d5.js"
+  ]
+}
