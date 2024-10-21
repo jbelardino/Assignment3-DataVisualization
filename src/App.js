@@ -23,7 +23,6 @@ class App extends Component {
       }
     }).then(function(csv_data){
       self.setState({data:csv_data})
-      console.log(csv_data)
     })
     .catch(function(err){
       console.log(err)
@@ -34,7 +33,7 @@ class App extends Component {
   render() {
     return (
       <div className='Parent'>
-        <div className='Child1'>
+         <div className='Child1'>
           <Child1 data1={this.state.data}></Child1>
         </div>
         <div className='Child2'>
