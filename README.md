@@ -1,3 +1,9 @@
+Created graphs utilizing d3 and svg elements
+View the finished product here: https://jbelardino.github.io/Assignment3-DataVisualization/
+
+<img width="581" height="666" alt="image" src="https://github.com/user-attachments/assets/e96a1998-1e85-4bb6-9309-2d200871045f" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
